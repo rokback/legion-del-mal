@@ -5,7 +5,3 @@ Un repositorio para conquistar el mundo
 Básicamente aprenderemos más sobre Git y GitHub con este proyecto
 
 ## falto agregar
-
-holaaa
-chao
-chao2
